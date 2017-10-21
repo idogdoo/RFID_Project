@@ -45,11 +45,11 @@ for yourself. */
 
 // Array list with valid and invalid IDs and dummy IDs
 /*
-Valid ID:		1509570 (This ID in the array below)
-Invalid ID:	1504830 (No access allowed)
-Dummy ID1:		0000000 (Only for demonstration purposes)
-Dummy ID2:		1111111 (                "              )
-Dummy ID3:		2222222 (                "              )
+Valid ID:       1509570 (This ID in the array below)
+Invalid ID:     1504830 (No access allowed)
+Dummy ID1:      0000000 (Only for demonstration purposes)
+Dummy ID2:      1111111 (                "              )
+Dummy ID3:      2222222 (                "              )
 */
 unsigned long int id_list[] = { 1509570, 0000000, 1111111, 2222222 };
 
